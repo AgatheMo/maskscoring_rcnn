@@ -45,6 +45,7 @@ class Resize(object):
 class COCODemo(object):
     # COCO categories for pretty print
     CATEGORIES = [
+        "background",
         "T1",
         "T2",
         "T3",
