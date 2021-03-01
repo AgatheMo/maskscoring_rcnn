@@ -47,8 +47,4 @@ TEST:
   IMS_PER_BATCH: 1
 OUTPUT_DIR : "./sortie/"
 PATHS_CATALOG : "./maskrcnn_benchmark/config/paths_catalog.py"
-INPUT:
-  MAX_SIZE_TEST: 2500
-  MAX_SIZE_TRAIN: 2500
-  MIN_SIZE_TEST: 1500
-  MIN_SIZE_TRAIN: 1500
+
