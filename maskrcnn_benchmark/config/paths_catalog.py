@@ -14,11 +14,11 @@ class DatasetCatalog(object):
         "coco_2017_val": ("coco/val2017", "coco/annotations/instances_val2017.json"),
         "coco_vertebres_train": (
           "coco/images_SJ",
-          "coco/annotations/train_segmentation_SJ.json",
+          "coco/annotations/train_segmentation_SJ2.json",
         ),
         "coco_vertebres_test": (
           "coco/images_SJ",
-          "coco/annotations/test_segmentation_SJ.json",
+          "coco/annotations/test_segmentation_SJ2.json",
         ),
     }
     # DATASETS = {
